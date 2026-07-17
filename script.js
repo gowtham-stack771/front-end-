@@ -1,10 +1,10 @@
 const images = [
-    "image/slide1.jpg",
-    "image/slide2.jpg",
-    "image/slide3.jpg",
-    "image/slide4.jpg",
-    "image/slide5.jpg",
-    "image/slide6.jpg"
+    "slide1.jpg",
+    "slide2.jpg",
+    "slide3.jpg",
+    "slide4.jpg",
+    "slide5.jpg",
+    "slide6.jpg"
 ];
 
 let index = 0;
